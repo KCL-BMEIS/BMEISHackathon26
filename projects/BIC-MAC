@@ -1,0 +1,23 @@
+# Project Proposal Template
+**Team Size:** 5
+
+## Team Members
+- George Webber (george.webber@kcl.ac.uk)
+- …
+-
+-
+-
+
+## Project Title
+Big Cross-Modal Attenuation Correction (BIC-MAC) Challenge
+## Overview
+About half of the radiation dose of a PET scan is due to the need for a CT scan to quantify produce an attenuation map. Ideally, we would synthesize a CT scan from other data sources (e.g. MRI, X-ray guidance, non-attenutation corrected PET image), so that it can be used for accurate PET image reconstruction.
+BIC-MAC is a MICCAI challenge on this topic, with data and evaluation code provided. This hackathon would be a good opportunity to explore the topic further and attempt a submission. See https://bic-mac-challenge.github.io/ for details.
+No knowledge of PET or image reconstruction required; this is an image-to-image prediction task.
+## Data
+Multi-modal data is provided in the challenge. We are allowed to use additional data where it is publicly available.
+ 
+## GitHub Repository
+Todo
+---
+
